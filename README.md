@@ -1,6 +1,6 @@
 # Arduino-DMX
 
-Output DMX from QLC+ usong an arduino over serial
+Output DMX from QLC+ using an arduino over serial
 
 ## How to install
 1. Clone the repository
